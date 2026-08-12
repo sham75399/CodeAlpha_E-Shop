@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
+- **Project Maintainer**: V. Sham (mailto:vsham2367@example.com)
 - **GitHub Issues**: [Create Issue](https://github.com/your-username/eshop-premium-store/issues)
 - **Discord**: [Join our community](#)
 
