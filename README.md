@@ -311,4 +311,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ and JavaScript** 🚀
 ```
 
-This README provides a comprehensive overview of your e-commerce application, including features, installation instructions, usage guide, and customization options. The document is structured to help both users and developers understand and contribute to the project.
+This README provides a comprehensive overview of my e-commerce application, including features, installation instructions, usage guide, and customization options. The document is structured to help both users and developers understand and contribute to the project.
